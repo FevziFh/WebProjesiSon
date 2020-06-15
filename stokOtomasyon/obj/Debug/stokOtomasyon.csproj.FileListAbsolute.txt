@@ -1,0 +1,262 @@
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.rsp
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.exe
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.rsp
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll.config
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.pdb
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.xml
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.dll
+C:\Users\ibrahimcakal\documents\visual studio 2017\Projects\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.pdb
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe.config
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.rsp
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.exe
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.rsp
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.AppContext.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe.config
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.rsp
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll.config
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.pdb
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.xml
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csprojResolveAssemblyReference.cache
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CoreCompileInputs.cache
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.dll
+D:\C# Uygulamalar\MVC(Yaptıklarım)\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.pdb
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.rsp
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.exe
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.rsp
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll.config
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.pdb
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.xml
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CopyComplete
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.dll
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.pdb
+C:\Users\FatihN\Desktop\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csprojAssemblyReference.cache
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe.config
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.rsp
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.exe
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.rsp
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.AppContext.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe.config
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.rsp
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll.config
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.pdb
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.xml
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csprojAssemblyReference.cache
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CopyComplete
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.dll
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.pdb
+E:\OKUL\DERSLER\VI.DONEM\04_WEBPROGRAMLAMA\PROJEM\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.exe.config
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\csc.rsp
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.exe
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\csi.rsp
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.AppContext.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.exe.config
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\vbc.rsp
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll.config
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\stokOtomasyon.pdb
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\EntityFramework.SqlServer.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Razor.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Deployment.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Webpages.Razor.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Helpers.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\bin\System.Web.Mvc.xml
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csprojAssemblyReference.cache
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.csproj.CopyComplete
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.dll
+C:\Users\fevzi\Desktop\Stok Otomasyon\stokOtomasyon\obj\Debug\stokOtomasyon.pdb
